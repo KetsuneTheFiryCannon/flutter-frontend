@@ -1,0 +1,59 @@
+{
+   "checksum": "9934d5a80001f7679b0a78aef0a902b1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13300134721449099",
+            "date_last_used": "0",
+            "guid": "35e46f51-fdd9-48a5-a03d-e4517cd7da08",
+            "id": "5",
+            "name": "Mail.Ru",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://www.mail.ru/cnt/7861"
+         }, {
+            "date_added": "13300134721417841",
+            "date_last_used": "0",
+            "guid": "e94d5371-badf-477e-b36e-e526848c6a4d",
+            "id": "6",
+            "name": "Искать в Интернете",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://go.mail.ru/?fr=iespt"
+         } ],
+         "date_added": "13322238487967040",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель избранного",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13322238487967052",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Другое избранное",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13322238487967054",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Избранное на мобильных устройствах",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
